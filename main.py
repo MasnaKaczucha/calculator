@@ -19,7 +19,7 @@ entry = tkinter.Entry(root)
 entry.grid(row=0, column=0, columnspan=4, sticky="nsew")
 
 calc = ""
-
+# lmfao
 def count(value):
     global entry
     global calc
